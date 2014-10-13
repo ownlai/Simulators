@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1406173053 source:d:\gamedesign\documents\simulator\shanghainight\bonusgame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BonusGame.h"
+
+1406270433 source:d:\gamedesign\documents\simulator\shanghainight\freegame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FreeGame.h"
+
+1406270393 d:\gamedesign\documents\simulator\shanghainight\freegame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1406270002 d:\gamedesign\documents\simulator\shanghainight\common.h
+	"define.h"
+
+1406180564 d:\gamedesign\documents\simulator\shanghainight\define.h
+
+1404964391 d:\gamedesign\documents\simulator\shanghainight\rng.h
+
+1405498259 d:\gamedesign\documents\simulator\shanghainight\config.h
+
+1406171825 source:d:\gamedesign\documents\simulator\shanghainight\log.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	"Log.h"
+
+1405578310 d:\gamedesign\documents\simulator\shanghainight\log.h
+	"common.h"
+	"define.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+	"LoadConfig.h"
+
+1406270354 d:\gamedesign\documents\simulator\shanghainight\maingame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1404964353 source:d:\gamedesign\documents\simulator\shanghainight\rng.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1406172348 source:d:\gamedesign\documents\simulator\shanghainight\test.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	<stdio.h>
+	"test.h"
+
+1405574305 d:\gamedesign\documents\simulator\shanghainight\test.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"Log.h"
+	"LoadConfig.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+
+1405573571 d:\gamedesign\documents\simulator\shanghainight\bonusgame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1406270354 source:d:\gamedesign\documents\simulator\shanghainight\maingame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MainGame.h"
+
+1405573632 source:d:\gamedesign\documents\simulator\shanghainight\loadconfig.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LoadConfig.h"
+
+1405569380 d:\gamedesign\documents\simulator\shanghainight\loadconfig.h
+	"common.h"
+	"define.h"
+

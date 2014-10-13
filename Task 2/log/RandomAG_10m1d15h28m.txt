@@ -1,0 +1,295 @@
+Play Line = 15, Lines Bet = 1, Round = 10000000, Period = 500 
+Total Win = 144522826 
+RTP =    96.3486, MG RTP =    48.6433, FG RTP =     0.0000, BG RTP =    47.7052
+Hit% = 31.1689, Win% = 8.5772, SB Freq = 153.6075, SF Freq = 1.#INF
+
+5 in a row : 
+    MW : Hit =  0.00000000%, RTP =  0.00000000f%
+    EW : Hit =  0.00000000%, RTP =  0.00000000f%
+    H1 : Hit =  0.00042000%, RTP =  0.42000000f%
+    H2 : Hit =  0.00112000%, RTP =  0.22400000f%
+    H3 : Hit =  0.00413000%, RTP =  0.27533333f%
+    H4 : Hit =  0.01011000%, RTP =  0.33700000f%
+    H5 : Hit =  0.02294000%, RTP =  0.45880000f%
+    H6 : Hit =  0.03830000%, RTP =  0.51066667f%
+    LA : Hit =  0.04638000%, RTP =  0.30920000f%
+    LK : Hit =  0.06394000%, RTP =  0.42626667f%
+    LQ : Hit =  0.23543000%, RTP =  0.78476667f%
+    LJ : Hit =  0.14946000%, RTP =  0.49820000f%
+
+4 in a row : 
+    MW : Hit =  0.00000000%, RTP =  0.00000000f%
+    EW : Hit =  0.00000000%, RTP =  0.00000000f%
+    H1 : Hit =  0.00657000%, RTP =  0.87600000f%
+    H2 : Hit =  0.01175000%, RTP =  0.39166667f%
+    H3 : Hit =  0.04851000%, RTP =  0.80850000f%
+    H4 : Hit =  0.11252000%, RTP =  1.12520000f%
+    H5 : Hit =  0.26865000%, RTP =  1.79100000f%
+    H6 : Hit =  0.45044000%, RTP =  1.20117333f%
+    LA : Hit =  0.35619000%, RTP =  0.47492000f%
+    LK : Hit =  0.49952000%, RTP =  0.66602667f%
+    LQ : Hit =  1.79689000%, RTP =  1.79689000f%
+    LJ : Hit =  1.79932000%, RTP =  1.79932000f%
+
+3 in a row : 
+    MW : Hit =  0.00000000%, RTP =  0.00000000f%
+    EW : Hit =  0.00000000%, RTP =  0.00000000f%
+    H1 : Hit =  0.19006000%, RTP =  2.53413333f%
+    H2 : Hit =  0.18356000%, RTP =  1.22373333f%
+    H3 : Hit =  0.72583000%, RTP =  2.41943333f%
+    H4 : Hit =  1.04785000%, RTP =  2.09570000f%
+    H5 : Hit =  2.52975000%, RTP =  3.37300000f%
+    H6 : Hit =  3.03533000%, RTP =  2.02355333f%
+    LA : Hit =  5.47459000%, RTP =  1.82486333f%
+    LK : Hit =  4.91530000%, RTP =  1.63843333f%
+    LQ : Hit =  9.70064000%, RTP =  1.94012800f%
+    LJ : Hit = 12.14975000%, RTP =  2.42995000f%
+
+Period RTP Counts : From 22 to 300
+3
+3
+12
+24
+40
+58
+75
+117
+149
+147
+185
+251
+277
+313
+333
+374
+368
+434
+463
+471
+509
+562
+560
+551
+540
+547
+541
+538
+527
+576
+519
+540
+507
+448
+417
+444
+406
+352
+348
+330
+352
+288
+310
+259
+249
+186
+235
+193
+185
+155
+147
+146
+120
+106
+100
+91
+76
+89
+66
+78
+73
+68
+72
+67
+65
+73
+57
+78
+77
+74
+58
+79
+75
+80
+72
+67
+75
+62
+73
+74
+73
+75
+66
+73
+62
+60
+56
+48
+50
+60
+50
+40
+39
+34
+21
+32
+23
+40
+25
+12
+13
+17
+15
+8
+17
+15
+15
+8
+13
+12
+7
+5
+9
+14
+6
+5
+9
+3
+11
+9
+7
+3
+5
+3
+8
+3
+8
+7
+7
+3
+5
+1
+4
+6
+5
+6
+1
+4
+4
+1
+
+
+Odds Table : 
+MW :     0     0     0     0     0 
+EW :     0     0     0     0     0 
+H1 :     0     0   200  2000 15000 
+H2 :     0     0   100   500  3000 
+H3 :     0     0    50   250  1000 
+H4 :     0     0    30   150   500 
+H5 :     0     0    20   100   300 
+H6 :     0     0    10    40   200 
+LA :     0     0     5    20   100 
+LK :     0     0     5    20   100 
+LQ :     0     0     3    15    50 
+LJ :     0     0     3    15    50 
+SB :     0     0     0     0     0 
+
+
+Main Game Reel Stripe : 
+
+H3  H6  H6  H6  LK  
+LA  LQ  MW  LQ  LQ  
+LK  LK  LJ  H4  H1  
+H4  H5  H1  H3  H5  
+LJ  LJ  LQ  LJ  LK  
+
+H1  LA  LA  H2  H4  
+LQ  H3  LJ  H5  SB  
+LJ  LJ  H3  LQ  H2  
+H5  LK  LQ  H6  LA  
+LA  LQ  SB  LK  LQ  
+
+LQ  H4  H5  LA  H3  
+LK  H6  LK  H1  LJ  
+H6  LJ  LQ  LJ  SB  
+LA  H5  H6  H5  H6  
+SB  LK  LA  LQ  LA  
+
+H2  LJ  LJ  H6  H5  
+LJ  LA  EW  H3  LK  
+LA  LQ  LA  LJ  H2  
+H4  H1  LJ  H4  LQ  
+LK  H6  LQ  LK  H4  
+
+H3  LJ  H2  LA  H3  
+LQ  H5  LK  LQ  LJ  
+LA  LQ  H4  H6  SB  
+H5  LA  LQ  H4  H6  
+H6  LJ  SB  LJ  LA  
+
+LK  H3  H5  H5  H1  
+LQ  LQ  LK  H2      
+LJ  H6  LQ  LQ      
+H4  LA  LJ  LK      
+H5  LJ              
+
+H6  LK              
+LQ  H4              
+LJ  LJ              
+    H5              
+    LQ              
+
+    LA              
+    LK              
+    H6              
+    LJ              
+    H2              
+Free Game Reel Stripe : 
+
+EW  EW  EW  EW  EW  
+LQ  H6  SB  LQ  LQ  
+LJ  H3  H3  H6  LA  
+H6  LA  H5  H3  H2  
+LK  LQ  LJ  LA  LK  
+
+H1  H2  H1  LQ  LQ  
+LQ  H6  LA  H1  H3  
+LJ  LK  LQ  LK  H5  
+H6  H5  H2  LA  LK  
+LA  H4  LK  H2  H6  
+
+LK  H6  H5  H5  H1  
+H2  H1  H4  LK  LA  
+LQ  LA  LQ  H4  H5  
+LJ  LK  H3  LQ  H2  
+H6  MW  H6  H6  LK  
+
+H5  LQ  H2  MW  H6  
+H3  H3  LK  LK  H3  
+H4  H6  H1  LA  LQ  
+LQ  LK  SB  LQ  LK  
+H5  LA  H3  H3  LJ  
+
+LK  H1  H4  H6  H6  
+LA  H5  LA  H5  LA  
+H4  LK      LQ  H4  
+LQ  LA      LA  H5  
+H5  H4      H1  LK  
+
+LK  LQ      H6      
+    H6      LK      
+    LK      H4      
+    LA      H5      
+    H3      LA      
+
+    LK      LQ      
+    LQ      LK      

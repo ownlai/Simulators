@@ -1,0 +1,114 @@
+Play Line = 1, Lines Bet = 1, Round = 27753000 
+Total Win = 13524150 
+RTP =    48.7304, Line Win RTP =    48.7304, SF RTP =     0.0000, SB RTP =     0.0000
+Line Hits = 849700, SB Hits = 187920, SF Hits = 0
+Hit% = 3.0617, SB Freq = 147.6852, SF Freq = 1.#INF
+
+5 in a row : 
+    MW : Hit = 0
+    EW : Hit = 0
+    H1 : Hit = 10
+    H2 : Hit = 20
+    H3 : Hit = 80
+    H4 : Hit = 180
+    H5 : Hit = 432
+    H6 : Hit = 720
+    LA : Hit = 900
+    LK : Hit = 840
+    LQ : Hit = 4500
+    LJ : Hit = 2880
+
+4 in a row : 
+    MW : Hit = 0
+    EW : Hit = 0
+    H1 : Hit = 115
+    H2 : Hit = 230
+    H3 : Hit = 920
+    H4 : Hit = 2070
+    H5 : Hit = 4968
+    H6 : Hit = 8280
+    LA : Hit = 6600
+    LK : Hit = 9660
+    LQ : Hit = 33000
+    LJ : Hit = 33120
+
+3 in a row : 
+    MW : Hit = 0
+    EW : Hit = 0
+    H1 : Hit = 3500
+    H2 : Hit = 3375
+    H3 : Hit = 13500
+    H4 : Hit = 19500
+    H5 : Hit = 46800
+    H6 : Hit = 56250
+    LA : Hit = 101250
+    LK : Hit = 91000
+    LQ : Hit = 180000
+    LJ : Hit = 225000
+
+
+Odds Table : 
+MW :     0     0     0     0     0 
+EW :     0     0     0     0     0 
+H1 :     0     0   200  2000 15000 
+H2 :     0     0   100   500  3000 
+H3 :     0     0    50   250  1000 
+H4 :     0     0    30   150   500 
+H5 :     0     0    20   100   300 
+H6 :     0     0    10    40   200 
+LA :     0     0     5    20   100 
+LK :     0     0     5    20   100 
+LQ :     0     0     3    15    50 
+LJ :     0     0     3    15    50 
+SB :     0     0     0     0     0 
+
+
+Main Game Reel Stripe : 
+
+H3  H6  H6  H6  LK  
+LA  LQ  MW  LQ  LQ  
+LK  LK  LJ  H4  H1  
+H4  H5  H1  H3  H5  
+LJ  LJ  LQ  LJ  H4  
+
+H1  LA  LA  H2  SB  
+LQ  H3  LJ  H5  H2  
+LJ  LJ  H3  LQ  LA  
+H5  LK  LQ  H6  LQ  
+LA  LQ  SB  LK  H3  
+
+LQ  H4  H5  LA  LJ  
+LK  H6  LK  H1  SB  
+H6  LJ  LQ  LJ  H6  
+LA  H5  LA  H5  LA  
+SB  LK  H6  LQ  H5  
+
+H2  LJ  LJ  H6  LK  
+LJ  LA  EW  H3  H2  
+LA  LQ  LA  LJ  LQ  
+H4  H1  LQ  H4  H4  
+LK  H6  LJ  LK  H3  
+
+H3  LJ  H2  LA  LJ  
+LQ  H5  LK  LQ  SB  
+LA  LQ  H4  H6  H6  
+H5  LA  LQ  H4  LA  
+H6  LJ  SB  LJ  H1  
+
+LK  H3  H5  H5      
+LQ  LQ  LK  H2      
+LJ  H6  LQ  LQ      
+H4  LA  LJ  LK      
+H5  LJ              
+
+H6  LK              
+LQ  H4              
+LJ  LJ              
+    H5              
+    LQ              
+
+    LA              
+    LK              
+    H6              
+    LJ              
+    H2              

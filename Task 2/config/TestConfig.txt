@@ -1,0 +1,17 @@
+======== 此檔純讀取數字, 所以可以任意加註解或說明, 但不能使用數字 =========
+下列設定的數字參考 common.h 裡面的 enum 宣告
+
+Test_Mode           5
+
+MGPay_Mode          0
+FGPay_Mode          0
+
+MGWild_Mode         2
+FGWild_Mode         0
+
+Play_Line           15
+Lines_Bet           1
+Test_Round          250000000
+
+StatisticPeriod	    500
+

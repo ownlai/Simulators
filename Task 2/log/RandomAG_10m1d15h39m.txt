@@ -1,0 +1,295 @@
+Play Line = 15, Lines Bet = 1, Round = 1000000, Period = 500 
+Total Win = 14890081 
+RTP =    99.2672, MG RTP =    50.2260, FG RTP =     0.0000, BG RTP =    49.0412
+Hit% = 31.1924, Win% = 8.6080, SB Freq = 152.9520, SF Freq = 1.#INF
+
+5 in a row : 
+    MW : Hit =  0.00000000%, RTP =  0.00000000f%
+    EW : Hit =  0.00000000%, RTP =  0.00000000f%
+    H1 : Hit =  0.00100000%, RTP =  1.00000000f%
+    H2 : Hit =  0.00130000%, RTP =  0.26000000f%
+    H3 : Hit =  0.00440000%, RTP =  0.29333333f%
+    H4 : Hit =  0.01190000%, RTP =  0.39666667f%
+    H5 : Hit =  0.02470000%, RTP =  0.49400000f%
+    H6 : Hit =  0.03790000%, RTP =  0.50533333f%
+    LA : Hit =  0.05130000%, RTP =  0.34200000f%
+    LK : Hit =  0.06870000%, RTP =  0.45800000f%
+    LQ : Hit =  0.23450000%, RTP =  0.78166667f%
+    LJ : Hit =  0.15370000%, RTP =  0.51233333f%
+
+4 in a row : 
+    MW : Hit =  0.00000000%, RTP =  0.00000000f%
+    EW : Hit =  0.00000000%, RTP =  0.00000000f%
+    H1 : Hit =  0.00800000%, RTP =  1.06666667f%
+    H2 : Hit =  0.01360000%, RTP =  0.45333333f%
+    H3 : Hit =  0.04960000%, RTP =  0.82666667f%
+    H4 : Hit =  0.10650000%, RTP =  1.06500000f%
+    H5 : Hit =  0.28430000%, RTP =  1.89533333f%
+    H6 : Hit =  0.44830000%, RTP =  1.19546667f%
+    LA : Hit =  0.35810000%, RTP =  0.47746667f%
+    LK : Hit =  0.49350000%, RTP =  0.65800000f%
+    LQ : Hit =  1.80390000%, RTP =  1.80390000f%
+    LJ : Hit =  1.78830000%, RTP =  1.78830000f%
+
+3 in a row : 
+    MW : Hit =  0.00000000%, RTP =  0.00000000f%
+    EW : Hit =  0.00000000%, RTP =  0.00000000f%
+    H1 : Hit =  0.18170000%, RTP =  2.42266667f%
+    H2 : Hit =  0.18040000%, RTP =  1.20266667f%
+    H3 : Hit =  0.73700000%, RTP =  2.45666667f%
+    H4 : Hit =  1.06170000%, RTP =  2.12340000f%
+    H5 : Hit =  2.55580000%, RTP =  3.40773333f%
+    H6 : Hit =  3.01910000%, RTP =  2.01273333f%
+    LA : Hit =  5.52990000%, RTP =  1.84330000f%
+    LK : Hit =  4.89700000%, RTP =  1.63233333f%
+    LQ : Hit =  9.78320000%, RTP =  1.95664000f%
+    LJ : Hit = 12.08080000%, RTP =  2.41616000f%
+
+Period RTP Counts : From 22 to 300
+0
+1
+0
+2
+5
+5
+7
+11
+11
+19
+17
+18
+31
+27
+36
+34
+42
+35
+41
+53
+47
+38
+54
+52
+58
+66
+51
+51
+57
+42
+50
+47
+53
+40
+47
+47
+56
+40
+38
+28
+34
+23
+27
+20
+25
+22
+23
+29
+21
+17
+15
+23
+11
+7
+8
+10
+13
+9
+6
+10
+3
+10
+5
+8
+5
+10
+11
+10
+6
+9
+8
+8
+8
+6
+6
+17
+5
+7
+11
+6
+8
+9
+7
+8
+2
+7
+8
+1
+5
+3
+2
+4
+3
+3
+5
+3
+1
+3
+1
+0
+1
+1
+1
+1
+2
+1
+2
+0
+3
+1
+2
+0
+2
+0
+3
+0
+1
+2
+0
+1
+4
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+1
+1
+2
+0
+1
+0
+0
+
+
+Odds Table : 
+MW :     0     0     0     0     0 
+EW :     0     0     0     0     0 
+H1 :     0     0   200  2000 15000 
+H2 :     0     0   100   500  3000 
+H3 :     0     0    50   250  1000 
+H4 :     0     0    30   150   500 
+H5 :     0     0    20   100   300 
+H6 :     0     0    10    40   200 
+LA :     0     0     5    20   100 
+LK :     0     0     5    20   100 
+LQ :     0     0     3    15    50 
+LJ :     0     0     3    15    50 
+SB :     0     0     0     0     0 
+
+
+Main Game Reel Stripe : 
+
+H3  H6  H6  H6  LK  
+LA  LQ  MW  LQ  LQ  
+LK  LK  LJ  H4  H1  
+H4  H5  H1  H3  H5  
+LJ  LJ  LQ  LJ  LK  
+
+H1  LA  LA  H2  H4  
+LQ  H3  LJ  H5  SB  
+LJ  LJ  H3  LQ  H2  
+H5  LK  LQ  H6  LA  
+LA  LQ  SB  LK  LQ  
+
+LQ  H4  H5  LA  H3  
+LK  H6  LK  H1  LJ  
+H6  LJ  LQ  LJ  SB  
+LA  H5  H6  H5  H6  
+SB  LK  LA  LQ  LA  
+
+H2  LJ  LJ  H6  H5  
+LJ  LA  EW  H3  LK  
+LA  LQ  LA  LJ  H2  
+H4  H1  LJ  H4  LQ  
+LK  H6  LQ  LK  H4  
+
+H3  LJ  H2  LA  H3  
+LQ  H5  LK  LQ  LJ  
+LA  LQ  H4  H6  SB  
+H5  LA  LQ  H4  H6  
+H6  LJ  SB  LJ  LA  
+
+LK  H3  H5  H5  H1  
+LQ  LQ  LK  H2      
+LJ  H6  LQ  LQ      
+H4  LA  LJ  LK      
+H5  LJ              
+
+H6  LK              
+LQ  H4              
+LJ  LJ              
+    H5              
+    LQ              
+
+    LA              
+    LK              
+    H6              
+    LJ              
+    H2              
+Free Game Reel Stripe : 
+
+EW  EW  EW  EW  EW  
+LQ  H6  SB  LQ  LQ  
+LJ  H3  H3  H6  LA  
+H6  LA  H5  H3  H2  
+LK  LQ  LJ  LA  LK  
+
+H1  H2  H1  LQ  LQ  
+LQ  H6  LA  H1  H3  
+LJ  LK  LQ  LK  H5  
+H6  H5  H2  LA  LK  
+LA  H4  LK  H2  H6  
+
+LK  H6  H5  H5  H1  
+H2  H1  H4  LK  LA  
+LQ  LA  LQ  H4  H5  
+LJ  LK  H3  LQ  H2  
+H6  MW  H6  H6  LK  
+
+H5  LQ  H2  MW  H6  
+H3  H3  LK  LK  H3  
+H4  H6  H1  LA  LQ  
+LQ  LK  SB  LQ  LK  
+H5  LA  H3  H3  LJ  
+
+LK  H1  H4  H6  H6  
+LA  H5  LA  H5  LA  
+H4  LK      LQ  H4  
+LQ  LA      LA  H5  
+H5  H4      H1  LK  
+
+LK  LQ      H6      
+    H6      LK      
+    LK      H4      
+    LA      H5      
+    H3      LA      
+
+    LK      LQ      
+    LQ      LK      

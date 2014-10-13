@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1406173053 source:d:\gamedesign\documents\simulator\western journey\bonusgame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BonusGame.h"
+
+1405573571 d:\gamedesign\documents\simulator\western journey\bonusgame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1406270002 d:\gamedesign\documents\simulator\western journey\common.h
+	"define.h"
+
+1406180564 d:\gamedesign\documents\simulator\western journey\define.h
+
+1404964391 d:\gamedesign\documents\simulator\western journey\rng.h
+
+1405569380 d:\gamedesign\documents\simulator\western journey\loadconfig.h
+	"common.h"
+	"define.h"
+
+1406270433 source:d:\gamedesign\documents\simulator\western journey\freegame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FreeGame.h"
+
+1406270393 d:\gamedesign\documents\simulator\western journey\freegame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1405573632 source:d:\gamedesign\documents\simulator\western journey\loadconfig.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LoadConfig.h"
+
+1406171825 source:d:\gamedesign\documents\simulator\western journey\log.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	"Log.h"
+
+1405578310 d:\gamedesign\documents\simulator\western journey\log.h
+	"common.h"
+	"define.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+	"LoadConfig.h"
+
+1406270354 d:\gamedesign\documents\simulator\western journey\maingame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1406270354 source:d:\gamedesign\documents\simulator\western journey\maingame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MainGame.h"
+
+1404964353 source:d:\gamedesign\documents\simulator\western journey\rng.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1406172348 source:d:\gamedesign\documents\simulator\western journey\test.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	<stdio.h>
+	"test.h"
+
+1405574305 d:\gamedesign\documents\simulator\western journey\test.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"Log.h"
+	"LoadConfig.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+
+1406173053 source:d:\gamedesign\documents\simulator\homerun\bonusgame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BonusGame.h"
+
+1405573571 d:\gamedesign\documents\simulator\homerun\bonusgame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1411718451 d:\gamedesign\documents\simulator\homerun\common.h
+	"define.h"
+
+1411718511 d:\gamedesign\documents\simulator\homerun\define.h
+
+1404964391 d:\gamedesign\documents\simulator\homerun\rng.h
+
+1405569380 d:\gamedesign\documents\simulator\homerun\loadconfig.h
+	"common.h"
+	"define.h"
+
+1411718657 source:d:\gamedesign\documents\simulator\homerun\freegame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FreeGame.h"
+
+1406270393 d:\gamedesign\documents\simulator\homerun\freegame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1405573632 source:d:\gamedesign\documents\simulator\homerun\loadconfig.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LoadConfig.h"
+
+1406171825 source:d:\gamedesign\documents\simulator\homerun\log.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	"Log.h"
+
+1405578310 d:\gamedesign\documents\simulator\homerun\log.h
+	"common.h"
+	"define.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+	"LoadConfig.h"
+
+1406270354 d:\gamedesign\documents\simulator\homerun\maingame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1411719120 source:d:\gamedesign\documents\simulator\homerun\maingame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MainGame.h"
+
+1404964353 source:d:\gamedesign\documents\simulator\homerun\rng.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1406172348 source:d:\gamedesign\documents\simulator\homerun\test.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	<stdio.h>
+	"test.h"
+
+1405574305 d:\gamedesign\documents\simulator\homerun\test.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"Log.h"
+	"LoadConfig.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+
