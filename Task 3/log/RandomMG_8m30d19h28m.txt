@@ -1,0 +1,113 @@
+Play Line = 15, Lines Bet = 1, Round = 1000000 
+Total Win = 14406028 
+RTP =    96.0402, Line Win RTP =    90.0194, SF RTP =     2.1900, SB RTP =     3.8308
+Hit% = 6.3102, SB Freq = 1162.7907, SF Freq = 272.4053
+
+5 in a row : 
+    WD : Hit =  0.00000000%, RTP =  0.00000000%
+    H1 : Hit =  0.01270000%, RTP =  0.84666667%
+    H2 : Hit =  0.01090000%, RTP =  0.36333333%
+    H3 : Hit =  0.01500000%, RTP =  0.50000000%
+    H4 : Hit =  0.01640000%, RTP =  0.54666667%
+    H5 : Hit =  0.00310000%, RTP =  0.05166667%
+    LA : Hit =  0.00360000%, RTP =  0.04800000%
+    LK : Hit =  0.00610000%, RTP =  0.08133333%
+    LQ : Hit =  0.00500000%, RTP =  0.05000000%
+
+4 in a row : 
+    WD : Hit =  0.00040000%, RTP =  0.01333333%
+    H1 : Hit =  0.04880000%, RTP =  0.65066667%
+    H2 : Hit =  0.04330000%, RTP =  0.28866667%
+    H3 : Hit =  0.04390000%, RTP =  0.29266667%
+    H4 : Hit =  0.04270000%, RTP =  0.14233333%
+    H5 : Hit =  0.09730000%, RTP =  0.32433333%
+    LA : Hit =  0.10860000%, RTP =  0.21720000%
+    LK : Hit =  0.11380000%, RTP =  0.22760000%
+    LQ : Hit =  0.09820000%, RTP =  0.13093333%
+
+3 in a row : 
+    WD : Hit =  0.02230000%, RTP =  0.14866667%
+    H1 : Hit =  0.17630000%, RTP =  0.47013333%
+    H2 : Hit =  0.17070000%, RTP =  0.28450000%
+    H3 : Hit =  0.16770000%, RTP =  0.27950000%
+    H4 : Hit =  0.17340000%, RTP =  0.11560000%
+    H5 : Hit =  2.28870000%, RTP =  1.52580000%
+    LA : Hit =  2.04110000%, RTP =  0.68036667%
+    LK : Hit =  2.79310000%, RTP =  0.93103333%
+    LQ : Hit =  2.51370000%, RTP =  0.83790000%
+
+
+Odds Table : 
+WD :     0     5   100   500 10000 
+H1 :     0     2    40   200  1000 
+H2 :     0     0    25   100   500 
+H3 :     0     0    25   100   500 
+H4 :     0     0    10    50   500 
+H5 :     0     0    10    50   250 
+LA :     0     0     5    30   200 
+LK :     0     0     5    30   200 
+LQ :     0     0     5    20   150 
+SB :     0     0   331     0     0 
+SF :     0     0     5    25   200 
+
+
+Main Game Reel Stripe : 
+
+WD  WD  WD  WD  WD  
+H1  H1  H1  H1  H1  
+H2  H2  H2  H1  H1  
+H3  H3  H3  H1  H1  
+H4  H4  H4  H1  H1  
+
+H5  H5  H5  H1  H1  
+H5  LA  LA  H1  H1  
+H5  LK  LA  H1  H1  
+H5  LK  LA  H1  H1  
+H5  LK  LA  H1  H1  
+
+H5  LK  LA  H1  H1  
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H2  
+
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H2  
+
+H5  LK  LA  H2  H2  
+H5  LK  LA  H2  H3  
+H5  LK  LA  H3  H3  
+LA  LK  LA  H3  H3  
+LK  LK  LA  H3  H3  
+
+LQ  LK  LA  H3  H3  
+LQ  LK  LA  H3  H3  
+LQ  LK  LK  H3  H3  
+LQ  LK  LQ  H3  H3  
+LQ  LQ  SB  H3  H3  
+
+LQ  SB  SF  H3  H3  
+LQ  SF      H3  H4  
+LQ          H3  H4  
+LQ          H4  H4  
+LQ          H4  H4  
+
+LQ          H4  H4  
+LQ          H4  H4  
+LQ          H4  H4  
+LQ          H4  H4  
+LQ          H4  H4  
+
+LQ          H4  H4  
+LQ          H4  H4  
+LQ          H4  H5  
+LQ          H4  LA  
+LQ          H5  LK  
+
+SB          LA  LQ  
+SF          LK  SB  
+            LQ  SF  
+            SF      

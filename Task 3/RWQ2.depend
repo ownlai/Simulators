@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1409372460 source:d:\work\royalwinsq2\bonusgame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BonusGame.h"
+
+1405573571 d:\work\royalwinsq2\bonusgame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1409374238 d:\work\royalwinsq2\common.h
+	"define.h"
+
+1409382913 d:\work\royalwinsq2\define.h
+
+1404964391 d:\work\royalwinsq2\rng.h
+
+1405569380 d:\work\royalwinsq2\loadconfig.h
+	"common.h"
+	"define.h"
+
+1409374284 source:d:\work\royalwinsq2\freegame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FreeGame.h"
+
+1406270393 d:\work\royalwinsq2\freegame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1405573632 source:d:\work\royalwinsq2\loadconfig.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LoadConfig.h"
+
+1409382490 source:d:\work\royalwinsq2\log.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	"Log.h"
+
+1405578310 d:\work\royalwinsq2\log.h
+	"common.h"
+	"define.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+	"LoadConfig.h"
+
+1409380247 d:\work\royalwinsq2\maingame.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"LoadConfig.h"
+
+1409397429 source:d:\work\royalwinsq2\maingame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MainGame.h"
+
+1404964353 source:d:\work\royalwinsq2\rng.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1409379749 source:d:\work\royalwinsq2\test.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	<stdio.h>
+	"test.h"
+
+1405574305 d:\work\royalwinsq2\test.h
+	"common.h"
+	"define.h"
+	"RNG.h"
+	"Log.h"
+	"LoadConfig.h"
+	"MainGame.h"
+	"FreeGame.h"
+	"BonusGame.h"
+

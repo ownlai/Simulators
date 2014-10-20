@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="RWQ2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="RWQ2" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="BonusGame.cpp" />
+		<Unit filename="BonusGame.h" />
+		<Unit filename="FreeGame.cpp" />
+		<Unit filename="FreeGame.h" />
+		<Unit filename="LoadConfig.cpp" />
+		<Unit filename="LoadConfig.h" />
+		<Unit filename="Log.cpp" />
+		<Unit filename="Log.h" />
+		<Unit filename="MainGame.cpp" />
+		<Unit filename="MainGame.h" />
+		<Unit filename="RNG.cpp" />
+		<Unit filename="RNG.h" />
+		<Unit filename="common.h" />
+		<Unit filename="define.h" />
+		<Unit filename="test.cpp" />
+		<Unit filename="test.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
